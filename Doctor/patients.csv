@@ -1,0 +1,11 @@
+,patient_id,first_name,last_name,gender,phone_number,email,city,country,height,weight,created_at,updated_at,blood_type,allergies,age
+0,1,Shivam,Verma,Male,8630997284,shivam@unthinkable.co,Delhi,India,177,75,2024-09-01,2024-09-12,B+,"Peanuts, Dolo Medicine",54
+1,2,Priya,Verma,Female,9876543211,priya.verma@example.com,Delhi,India,165,60,2024-09-02,2024-09-12,O+,Peanuts,44
+2,3,Amit,Gupta,Male,9876543212,amit.gupta@example.com,Bangalore,India,175,75,2024-09-03,2024-09-12,A+,Pollen,12
+3,4,Anjali,Kapoor,Female,9876543213,anjali.kapoor@example.com,Chennai,India,160,58,2024-09-04,2024-09-12,AB+,"Dust,kiwi",54
+4,5,Raj,Patel,Male,9876543214,raj.patel@example.com,Ahmedabad,India,170,68,2024-09-05,2024-09-12,O-,,33
+5,6,Sonal,Mehta,Female,9876543215,sonal.mehta@example.com,Pune,India,162,55,2024-09-06,2024-09-12,B+,"Gluten,peanuts",55
+6,7,Vikram,Joshi,Male,9876543216,vikram.joshi@example.com,Kolkata,India,180,80,2024-09-07,2024-09-12,A-,,44
+7,8,Sneha,Rao,Female,9876543217,sneha.rao@example.com,Hyderabad,India,158,50,2024-09-08,2024-09-12,O+,Nuts,12
+8,9,Manish,Singh,Male,9876543218,manish.singh@example.com,Lucknow,India,174,72,2024-09-09,2024-09-12,B-,Soy,64
+9,10,Neha,Desai,Female,9876543219,neha.desai@example.com,Jaipur,India,167,62,2024-09-10,2024-09-12,AB-,,76

@@ -1,0 +1,24 @@
+id,pat_id,doc_id,created_at,updated_at,investigation,symptoms,summary,disease
+1,1,101,2024-09-10,2024-09-10,"Blood test, X-ray, ECG","Fever, body ache","Viral infection suspected, prescribed medication for fever and pain relief.","Viral Fever"
+2,1,101,2024-09-11,2024-09-11,"Urine test, Blood culture, Ultrasound","Sore throat, fever","Infection detected, antibiotics prescribed.","Bacterial Infection"
+3,2,102,2024-09-09,2024-09-09,"Chest X-ray, Blood test, Allergy test","Cough, cold, body pain","Prescribed medication for cold and anti-allergic treatmen     t.",Cold
+4,2,102,2024-09-12,2024-09-12,"Allergy test, Skin prick test","Itchy eyes, sneezing","Allergy to dust suspected, anti-allergy medication prescribed.",Allergy
+5,3,103,2024-09-08,2024-09-08,"Blood sugar test, Kidney function test","Frequent urination, thirst","Diabetes confirmed, started on Metformin.",Diabetes
+6,3,103,2024-09-12,2024-09-12,"Vitamin D test, Bone density scan","Fatigue, joint pain","Vitamin D deficiency detected, supplementation started.","Vitamin Deficiency"
+7,4,104,2024-09-05,2024-09-05,"Blood pressure measurement, ECG, Blood test","Headache, dizziness","High blood pressure, Lisinopril prescribed.","High BP"
+8,4,104,2024-09-07,2024-09-07,"ECG, Stress test","Chest pain","No abnormalities found, aspirin prescribed as preventive measure.",None
+9,5,105,2024-09-06,2024-09-06,"Endoscopy, Gastric acid test","Acid reflux, bloating","Gastritis diagnosed, Omeprazole prescribed.",Gastrisis
+10,5,105,2024-09-08,2024-09-08,"Cholesterol test, Blood pressure monitoring","Weight gain, fatigue","High cholesterol, lifestyle changes and medication prescribed.","High Cholestrol"
+11,6,106,2024-09-09,2024-09-09,"Thyroid function test, Blood sugar test","Weight gain, tiredness","Hypothyroidism detected, Levothyroxine prescribed.",Hypothuroidism
+12,6,106,2024-09-10,2024-09-10,"Calcium level check, Bone density scan","Muscle cramps, weakness","Low calcium levels, calcium supplements prescribed.","Vitamin Deficiency"
+13,7,107,2024-09-10,2024-09-10,"Blood pressure monitoring, Kidney function test","Dizziness, fatigue","Losartan prescribed for high blood pressure.","High BP"
+14,7,107,2024-09-12,2024-09-12,"Kidney function test, Electrolyte panel","Swelling in legs","No kidney issues detected, continued blood pressure treatment.","High BP"
+15,8,108,2024-09-11,2024-09-11,"Pulmonary function test, Chest X-ray","Shortness of breath, cough","Asthma diagnosed, inhaler and Montelukast prescribed.",Asthma
+16,8,108,2024-09-12,2024-09-12,"Allergy test, Skin patch test","Wheezing, sneezing","Dust allergy confirmed, treatment with anti-allergy medication.",Allergy
+17,9,109,2024-09-08,2024-09-08,"ECG, Blood pressure monitoring","Chest pain, shortness of breath","High blood pressure, started on Amlodipine.","High BP"
+18,9,109,2024-09-09,2024-09-09,"Lipid profile test, Liver function test","Fatigue, chest discomfort","High cholesterol detected, Atorvastatin prescribed.","High Cholestrol"
+19,10,110,2024-09-06,2024-09-06,"Stress test, ECG, Blood test","Palpitations, fatigue","Mild heart disease, Metoprolol prescribed.","Heart Disease"
+20,10,110,2024-09-10,2024-09-10,"Kidney function test, Electrolyte panel","Frequent urination, swelling in legs","No significant findings, continued treatment for heart condition.",None
+21,1,101,2024-09-15,0000-00-00,,,"you are diagnosed with cancer and you have to take dispute 500 mg tablet twice a day daily",Cancer
+22,1,110,2024-08-15,2024-08-15,"ECG, blood culture","Chest pain, difficulty in breathing","Patient was diagonosed with heart heart attack because of high blood pressure and cholestrol","Heart Disease"
+23,1,101,2024-05-15,2024-05-15,"ECG, blood culture","Chest pain, guy got unconcious","Patient got unconcious, chest pain emergency care","Heart Attack"
